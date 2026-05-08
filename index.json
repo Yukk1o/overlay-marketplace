@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "id": "WinXP",
+      "name": {
+        "en": "Windows XP Icons",
+        "zh": "Windows XP图标"
+      },
+      "icon": ""
+    }
+  ],
+  "repos": [
+    {
+      "name": "Windows XP 图标素材",
+      "description": {
+        "en": "A Windows XP Icons",
+        "zh": "一个关于Windows XP 图标库"
+      },
+      "icon": "",
+      "provider": "github",
+      "owner": "B00merang-Artwork",
+      "repo": "Windows-XP",
+      "branch": "mainmaster",
+      "category": "WinXP"
+    }
+  ]
+}
